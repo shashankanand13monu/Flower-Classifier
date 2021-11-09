@@ -1,0 +1,10 @@
+tensorflow-cpu
+fastapi
+uvicorn
+python-multipart
+pillow
+matplotlib
+numpy
+gunicorn==20.1.0
+uvloop
+httptools
